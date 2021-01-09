@@ -1,0 +1,6 @@
+server/StudentDao.class
+model/Subject.class
+server/MainDao.class
+model/Student.class
+model/Score.class
+server/ServerController.class
